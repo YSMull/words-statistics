@@ -10,24 +10,23 @@
 ![screenshot](http://ww1.sinaimg.cn/mw690/49d9625ftw1ed9zppb5zuj20mn0h3wg6.jpg)
 
 ####每一次年都出现了的单词
-| 单词|      |	     |	     |       |
-|:----:|:----:|:----:|:---- :|:---- :|
-|And |	have |	other |	most |	last |
-|all |	year |	way |	hi |	like |
-|because |	your |	new |	know |	english |
-|chinese |	if |	you |	they |	this |
-|give |	people |	he |	not |	many |
-|question |	from |	into |	such |	work |
-|over |	would |	make |	translation |	up |
-|in |	no |	then |	an |	will |
-|some |	section |	we |	with |	these |
-|it |	there |	which |	by |	so |
-|one |	when |	do |	those |	can |
-|four |	be |	that |	must |	of |
-|say |	should |	than |	a |	become |
-|at |	write |	who |	on |	the |
-|only |	to |	but |	about |	or |
-|for |	　 |	　 |	　 |	　 |
+
+and,	have,	other,	most,	last,
+all,	year,	way,	hi,	like,
+because,	your,	new,	know,	english,
+chinese,	if,	you,	they,	this,
+give,	people,	he,	not,	many,
+question,	from,	into,	such,	work,
+over,	would,	make,	translation,	up,
+in,	no,	then,	an,	will,
+some,	section,	we,	with,	these,
+it,	there,	which,	by,	so,
+one,	when,	do,	those,	can,
+four,	be,	that,	must,	of,
+say,	should,	than,	a,	become,
+at,	write,	who,	on,	the,
+only,	to,	but,	about,	or,
+for
 
 ####相邻年份考研真题词汇重复数
 ![screenshot](http://ww4.sinaimg.cn/mw690/49d9625ftw1ed9zpseiu8j20mn0h3myp.jpg)
